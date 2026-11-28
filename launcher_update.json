@@ -1,6 +1,6 @@
 {
-  "update": false,
-  "version": "build_1.0.8",
-  "update_url": "https://github.com/Apksamp-01/Atualiza-o/releases/download/build_1.0.8/Launcher-build_1.0.8-debug.apk",
+  "update": true,
+  "version": "build_1.0.9",
+  "update_url": "https://github.com/Apksamp-01/Atualiza-o/releases/download/build_1.0.9/Launcher-build_1.0.9-debug.apk",
   "size_bytes": 91571004
 }
